@@ -1,2 +1,2 @@
 # ORA Landing Page
-Deploy on Vercel
+Fully inline HTML + CSS + JS. Ready for static deployment.
